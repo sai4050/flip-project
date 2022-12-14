@@ -1,0 +1,22 @@
+<project>
+	<groupId>com.flip</groupId>
+	<artifactId>flipkart</artifactId>
+	<version>1.0</version>
+	<packaging>jar</packaging>
+
+	<name>flip</flip>
+
+
+
+	<dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+</project>
+
+
